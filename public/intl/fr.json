@@ -1,0 +1,18 @@
+{
+  "locale": "fr",
+  "formats": {},
+  "messages": {
+    "home": "Domicile",
+    "about": "Sur",
+    "route-about": "sur",
+    "topics": "Sujets",
+    "route-topics": "sujets",
+    "topics-rendering": "Rendu avec React",
+    "topics-components": "Composants",
+    "topics-propsVState": "Props v. Etat",
+    "topics-selectTopic": "S'il vous plaît choisir un sujet",
+    "en": "Anglais",
+    "fr": "Francais",
+    "de": "Almande"
+  }
+}

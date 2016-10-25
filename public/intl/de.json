@@ -1,0 +1,18 @@
+{
+  "locale": "de",
+  "formats": {},
+  "messages": {
+    "home": "Zuhause",
+    "about": "Etwa",
+    "route-about": "etwa",
+    "topics": "Themen",
+    "route-topics": "themen",
+    "topics-rendering": "Rendering mit React",
+    "topics-components": "Komponenten",
+    "topics-propsVState": "Props v. Bundesland",
+    "topics-selectTopic": "Bitte wählen Sie ein Thema",
+    "en": "Englisch",
+    "fr": "Französisch",
+    "de": "Deutsche"
+  }
+}

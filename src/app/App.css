@@ -1,0 +1,40 @@
+.container {
+  text-align: left;
+}
+
+.container header {
+  background-color: #333333;
+  overflow: hidden;
+}
+
+.container header ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.container header ul li {
+  float: left;
+}
+
+.container header ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.container header ul li a:hover {
+  background-color: #111111;
+}
+
+.container header select {
+  float: right;
+  display: block;
+  margin: 16px;
+}
+
+.container section {
+  padding: 0 16px;
+}

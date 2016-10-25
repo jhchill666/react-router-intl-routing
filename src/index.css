@@ -1,5 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 body {
+  font-family: "Roboto", Arial;
+  font-weight: 200;
+  display: block;
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 100;
+}
+
+a {
+  color: hsl(200, 50%, 50%);
+}
+
+a.active {
+  color: hsl(20, 50%, 50%);
 }

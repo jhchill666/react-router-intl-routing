@@ -1,0 +1,18 @@
+{
+  "locale": "en",
+  "formats": {},
+  "messages": {
+    "home": "Home",
+    "about": "About",
+    "route-about": "about",
+    "topics": "Topics",
+    "route-topics": "topics",
+    "topics-rendering": "Rendering with React",
+    "topics-components": "Components",
+    "topics-propsVState": "Props v. State",
+    "topics-selectTopic": "Please select a topic",
+    "en": "English",
+    "fr": "French",
+    "de": "German"
+  }
+}

@@ -6,8 +6,16 @@
     "react-scripts": "0.7.0"
   },
   "dependencies": {
+    "intl": "^1.2.5",
+    "intl-locales-supported": "^1.0.0",
+    "mobx": "^2.6.0",
+    "mobx-react": "^3.5.8",
+    "mobx-react-devtools": "^4.2.9",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "react-intl": "^2.1.5",
+    "react-router": "^4.0.0-alpha.4",
+    "whatwg-fetch": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
