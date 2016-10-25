@@ -16,7 +16,7 @@ class Intl {
      * @param locale
      */
     switchLocale(locale = 'en') {
-        const url = `./intl/${locale}.json`
+        const url = `/intl/${locale}.json`
         this.loading = true
         return fetch(url)
             .then(resp => resp.json())
